@@ -12,7 +12,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/vinhben12/blum-airdrop-bot.git
+    git clone https://github.com/vinhben12/vana-bot.git
     ```
 
 2. **Navigate to the project directory:**
