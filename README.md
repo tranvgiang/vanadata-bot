@@ -18,7 +18,7 @@
 2. **Navigate to the project directory:**
 
     ```bash
-    cd blum-airdrop-bot
+    cd vana-bot
     ```
 
 3. **Install dependencies:**
@@ -48,10 +48,10 @@
 
 ### Running the Bot
 
-To start the bot, run:
+Chay bot gõ
 
 ```bash
-npm start
+node vana.js
 ```
 
 
