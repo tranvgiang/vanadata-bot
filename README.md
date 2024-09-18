@@ -39,7 +39,7 @@
 
    - Tìm `QUERY_ID`,
      1. Mở [Web Telegram](https://web.telegram.org) trên trình duyệt.
-     2. Mở bot [ ot](https://t.me/VanaDataHeroBot/VanaDataHero?startapp=5217425934).
+     2. Mở [bot](https://t.me/VanaDataHeroBot/VanaDataHero?startapp=5217425934).
      3. Mở DevTools (right-click on the page and select "Inspect" or press `F12`).
      4. Chọn "Application" tab, sau đó "Local Storage", and choose `https://telegram.blum.codes`.
      5. Find `QUERY_ID`, copy its value.
