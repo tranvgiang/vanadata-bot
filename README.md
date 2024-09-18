@@ -1,4 +1,4 @@
-# Blum Airdrop Bot
+# Vana Airdrop Bot
 
 ## Description
 
