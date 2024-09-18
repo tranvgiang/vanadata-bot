@@ -15,13 +15,13 @@
     git clone https://github.com/vinhben12/vana-bot.git
     ```
 
-2. **Navigate to the project directory:**
+2. **Chuyển đến thư mục bot:**
 
     ```bash
     cd vana-bot
     ```
 
-3. **Install dependencies:**
+3. **Cài package dependencies:**
 
     ```bash
     npm install
@@ -29,12 +29,12 @@
 
 ### Configuration
 
-1. **Create a `.env` file** in the root directory of the project.
+1. **Tìm query_ID và đặt vapf file `data.txt` 
 
-2. **Add your `QUERY_ID` to the `.env` file**. Example format:
+2. **Ví dụ:
 
-    ```env
-    QUERY_ID=YOUR_QUERY_ID_VALUE_HERE
+    ```data.txt
+    user=%7B%22id%22......
     ```
 
    - Tìm `QUERY_ID`,
