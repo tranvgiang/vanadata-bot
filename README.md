@@ -12,7 +12,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/vinhben12/vana-bot.git
+    git clone https://github.com/tranvgiang/vana-bot.git
     ```
 
 2. **Chuyển đến thư mục bot:**
@@ -39,7 +39,7 @@
 
    - Tìm `QUERY_ID`,
      1. Mở [Web Telegram](https://web.telegram.org) trên trình duyệt.
-     2. Mở [bot](https://t.me/VanaDataHeroBot/VanaDataHero?startapp=5217425934).
+     2. Mở [bot](https://t.me/VanaDataHeroBot/VanaDataHero?startapp=696803450).
      3. Mở DevTools (right-click on the page and select "Inspect" or press `F12`).
      4. Chọn "Application" tab, sau đó "Local Storage", and choose `https://telegram.blum.codes`.
      5. Find `QUERY_ID`, copy its value.
